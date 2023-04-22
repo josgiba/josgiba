@@ -2,7 +2,7 @@
 
 Here are some ideas about me:
 
-- 🔭 I’m currently working on analyzing consumer trends within the Personal Care industry to help create high-added value products. 
+- 🔭 I’m currently working on analyzing consumer trends within the Personal Care industry to help my Marketing department peers create high-added value products. 
 - 🌱 I’m currently learning new data analysis skills: python, statistics, machine learning...
 - 👯 I’m looking to collaborate on developing tools and applications that help to understand what the consumer is thinking, feeling, and looking for almost in real-time.
 - 🤔 I’m looking for help with programming languages.
