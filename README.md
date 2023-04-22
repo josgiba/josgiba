@@ -1,9 +1,6 @@
 ### Hi I'm Jose 👋
 
-<!--
-**josgiba/josgiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 - 🔭 I’m currently working on analyzing consumer trends within the Personal Care industry to help create high-added value products. 
 - 🌱 I’m currently learning new data analysis skills: python, statistics, machine learning...
